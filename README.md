@@ -58,3 +58,7 @@ El siguiente diagrama representa el circuito que se va a implementar:
   **4)** Conectamos los diodos led colocando la parte positiva (pata más larga) en el lado positivo del protoboard, y la parte negativa (pata más corta) a continuación de las resistencias
   
  ![IMG_20221130_183238_844](https://user-images.githubusercontent.com/116774235/205076576-10294f08-8f2b-443f-818d-52f310eaa62a.jpg)
+
+ **5)** Conectamos la resistencia de 1 kΩ de la parte positiva del protoboard hacia cualquier columna del otro lado, pasando el canal central
+ 
+ ![IMG_20221130_183213_722](https://user-images.githubusercontent.com/116774235/205078719-903da3ff-6d50-453f-ba38-82efd1cca712.jpg)
