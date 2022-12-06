@@ -23,6 +23,8 @@ El siguiente diagrama representa el circuito que se va a implementar:
 
 ![183329251_133893722095831_7488446327143838990_n](https://user-images.githubusercontent.com/116774235/204942760-fdbf92fc-070b-437a-b9b0-e50afd747fdc.jpg)
 
+Antes de continuar con la implementación del circuito, se debe tener conocimiento previo sobre el uso de los transistores para no tener dificultad en realizar las conexiones respectivas.
+
 # **EXPLICACIÓN**
 
 **MATERIALES**
