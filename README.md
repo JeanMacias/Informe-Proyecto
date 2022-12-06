@@ -73,6 +73,10 @@ Antes de continuar con la implementación del circuito, se debe tener conocimien
  
  ![IMG_20221130_175423_955](https://user-images.githubusercontent.com/116774235/205789506-017aec3e-8e39-47ad-a502-ed8f7981dfa9.jpg)
  
+ # **RESULTADOS**
+ 
+ Se logro implementar el circuito de manera exitosa y sin dificultad alguna. También se puede notar que los transistores actuan como un interruptor para el circuito puesto que si los cables conectados a la base de cada transistor no hacen contacto con el agua, los transistores no permiten el paso de la corriente.
+ 
  # **CONCLUSIONES**
  
  * Los sensores de nivel de agua trabajan midiendo directamente la altura del líquido sobre una línea de referencia.
