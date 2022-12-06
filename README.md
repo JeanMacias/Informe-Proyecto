@@ -70,3 +70,9 @@ El siguiente diagrama representa el circuito que se va a implementar:
  **7)** Por último conectamos la batería de 9V al circuito y colocamos los extremos de los cables dentro de un recipiente con agua
  
  ![IMG_20221130_175423_955](https://user-images.githubusercontent.com/116774235/205789506-017aec3e-8e39-47ad-a502-ed8f7981dfa9.jpg)
+ 
+ # **CONCLUSIONES**
+ 
+ * Los sensores de nivel de agua trabajan midiendo directamente la altura del líquido sobre una línea de referencia.
+
+ * Los transistores funcionan como un interruptor para controlar el circuito.
