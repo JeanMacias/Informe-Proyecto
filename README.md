@@ -75,7 +75,8 @@ Antes de continuar con la implementación del circuito, se debe tener conocimien
  
  # **RESULTADOS**
  
- Se logro implementar el circuito de manera exitosa y sin dificultad alguna. También se puede notar que los transistores actuan como un interruptor para el circuito puesto que si los cables conectados a la base de cada transistor no hacen contacto con el agua, los transistores no permiten el paso de la corriente.
+  * Se logro implementar el circuito de manera exitosa y sin dificultad alguna.
+  * También se puede notar que los transistores actuan como un interruptor para el circuito puesto que si los cables conectados a la base de cada transistor no hacen contacto con el agua, los transistores no permiten el paso de la corriente.
  
  # **CONCLUSIONES**
  
