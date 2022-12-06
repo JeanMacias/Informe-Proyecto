@@ -2,7 +2,7 @@
 
 # Detector de Nivel de Agua
 
-Nombre: JEAN MACIAS
+Nombres: JEAN MACIAS, DIRSON TROYA, JOAN CALDERÓN
 
 NRC: 10063 - 10066
 
