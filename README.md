@@ -76,3 +76,8 @@ El siguiente diagrama representa el circuito que se va a implementar:
  * Los sensores de nivel de agua trabajan midiendo directamente la altura del líquido sobre una línea de referencia.
 
  * Los transistores funcionan como un interruptor para controlar el circuito.
+
+# **BIBLIOGRAFÍA**
+
+* https://www.youtube.com/watch?v=npfzICYJ4bA&list=LL&index=1&t=348s
+* https://es.slideshare.net/TonyQuispe3/sensor-de-nivel-de-agua-126358151
