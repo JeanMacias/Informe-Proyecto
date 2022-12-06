@@ -62,3 +62,11 @@ El siguiente diagrama representa el circuito que se va a implementar:
  **5)** Conectamos la resistencia de 1 kΩ de la parte positiva del protoboard hacia cualquier columna del otro lado, pasando el canal central
  
  ![IMG_20221130_183213_722](https://user-images.githubusercontent.com/116774235/205078719-903da3ff-6d50-453f-ba38-82efd1cca712.jpg)
+
+ **6)** Realizamos una conexión entre la base de cada transistor con la resistencia de 1 kΩ y unimos los extremos con cinta o cable
+ 
+![IMG_20221130_183123_019](https://user-images.githubusercontent.com/116774235/205788962-63b7b6f0-b593-4dc6-a018-1e7b6ffd2786.jpg)
+
+ **7)** Por último conectamos la batería de 9V al circuito y colocamos los extremos de los cables dentro de un recipiente con agua
+ 
+ ![IMG_20221130_175423_955](https://user-images.githubusercontent.com/116774235/205789506-017aec3e-8e39-47ad-a502-ed8f7981dfa9.jpg)
