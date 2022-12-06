@@ -47,11 +47,11 @@ El siguiente diagrama representa el circuito que se va a implementar:
 
 ![IMG_20221130_183439_723](https://user-images.githubusercontent.com/116774235/205072287-44b934c3-e77c-4b7e-a324-7d5393b3710e.jpg)
 
-  **2)** Conectamos la parte del emisor de los transistores a la parte negativa del protoboard
+  **2)** Conectamos la parte del colector de los transistores a la parte negativa del protoboard
   
   ![IMG_20221130_183410_586](https://user-images.githubusercontent.com/116774235/205073474-d7eac161-ef50-4bda-8e12-c03695b9ceed.jpg)
 
-  **3)** Conectamos las resistencias de 510 Ω de la parte del colector del transistor hacia el otro lado del protoboard, pasando el canal central
+  **3)** Conectamos las resistencias de 510 Ω de la parte del emisor del transistor hacia el otro lado del protoboard, pasando el canal central
   
   ![IMG_20221130_183322_316](https://user-images.githubusercontent.com/116774235/205075148-bee75f80-8957-4633-8b09-c85822a60c18.jpg)
 
